@@ -1,0 +1,20 @@
+What is HTTP?(hyper text transper protocal )
+The http is used to request and response data from client and server.
+
+what is HTTP1.1 & HTTP2.0?
+
+HTTP1.1;
+   The http1.1 is text format,
+   it is advance model in http1,
+   it is give in one request to give several TCP to get the information,this is draw back in HTTP1.1,
+   so draw backs rectifed to come in http2.0.
+
+   HTTP2.0
+    It is binary protocal 
+    it is give in one request multiplex to give one TCP TCP to get the information
+    its very fast compare to http1.1.
+
+    what is object in js?
+     javaScript object is an entity having state and behavior (properties and method). 
+     For example: car, pen, bike, chair, glass, keyboar,
+     object is defined by={}.
